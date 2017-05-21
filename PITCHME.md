@@ -87,7 +87,7 @@ Technological support for SMU Peer Helpers
 
 ---
 
-# Support
+### Support
 <span style="font-size:0.8em;">Sustaining Project <span style="color: #2A6899">PH</span>alcon</span>
 
 +++
