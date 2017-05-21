@@ -141,10 +141,8 @@ Ans: All <span style="color: #2A6899">SMU Peer Helpers</span> are welcome to giv
 <span>
 Ans: For <u>urgent</u> issues, please contact the Project PHalcon team.
 <br>For all other issues, choose one of the following methods:
-    <span style="font-size:0.8em;">
-    1. At the <span style="color: #2A6899">biweekly Project Phalcon meeting</span>
-    2. In the <span style="color: #2A6899">application repository</span> on Github (Issues > New Issue)
-    </span>
+1. <span style="font-size:0.75em;">At the <span style="color: #2A6899">biweekly Project Phalcon meeting</span></span>
+2. <span style="font-size:0.75em;">In the <span style="color: #2A6899">application repository</span> on Github (Issues > New Issue)</span>
 </span>
 
 +++
@@ -152,10 +150,9 @@ Ans: For <u>urgent</u> issues, please contact the Project PHalcon team.
 <b>Qn: I don't know how to code, how else can I be involved?</b><br>
 <span>
 Ans: There are many other ways for you to be a part of Project PHalcon!
-    <span style="font-size:0.8em;">
-    - Be a <span style="color: #2A6899">Project Owner</span>, and help us improve our applications!
-    - Be an <span style="color: #2A6899">Observer</span> during the biweekly meetings, and provide feedback!
-    - Be a <span style="color: #2A6899">Tester</span>, and help ensure the functionality of our applications!
-    - Reach out to the development team, and <span style="color: #2A6899">learn to code</span> from them ;)
-    </span>
+- <span style="font-size:0.75em;">Be a <span style="color: #2A6899">Project Owner</span>, and help us improve our applications!</span>
+- <span style="font-size:0.75em;">Be an <span style="color: #2A6899">Observer</span> during the biweekly meetings, and provide feedback!</span>
+- <span style="font-size:0.75em;">Be a <span style="color: #2A6899">Tester</span>, and help ensure the functionality of our applications!</span>
+- <span style="font-size:0.75em;">Reach out to the development team, and <span style="color: #2A6899">learn to code</span> from them ;)</span>
+</div>
 </span>
