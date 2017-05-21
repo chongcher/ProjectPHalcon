@@ -15,6 +15,8 @@ Technological support for SMU Peer Helpers
 ### Motivation
 <span style="font-size:0.8em;">Benefits from Project <span style="color: #2A6899">PH</span>alcon</span>
 
+<span style="color: gray; font-size:0.8em;" class="fragment">Click the down arrow to read more, right for the next section</span>
+
 +++
 
 ### SMU Peer Helpers
@@ -128,6 +130,8 @@ Ans: Fun fact - Peregrine <span style="color: #2A6899">falcons</span> are the fa
 Ans: Project PHalcon works on a <span style="color: #2A6899">two week cycle</span>. <u>You</u> decide which tasks, if any, you want to work on for each cycle.
 </span>
 
++++
+
 <b>Qn: Who can raise issues/suggestions to Project PHalcon?</b><br>
 <span>
 Ans: All <span style="color: #2A6899">SMU Peer Helpers</span> are welcome to give suggestions or feedback!
@@ -140,6 +144,8 @@ Ans: For <u>urgent</u> issues, please contact the Project PHalcon team.
 1. At the <span style="color: #2A6899">biweekly Project Phalcon meeting</span>
 2. In the <span style="color: #2A6899">application repository</span> on Github (Issues > New Issue)
 </span>
+
++++
 
 <b>Qn: I don't know how to code, how else can I be involved?</b><br>
 <span>
