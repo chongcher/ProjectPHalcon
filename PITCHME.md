@@ -89,28 +89,6 @@ Technological support for SMU Peer Helpers
 
 ---
 
-### Support
-<span style="font-size:0.8em;">Sustaining Project <span style="color: #2A6899">PH</span>alcon</span>
-
-+++
-
-### Project PHalcon
-
-- Ensure <span style="color: #2A6899">flexibility</span> in schedule for developers
-- Provide <span style="color: #2A6899">opportunities</span> for observers to learn
-- Ensure <span style="color: #2A6899">documentation</span> is kept current
-- Engage PHAlumni to contribute to the projects (i.e. code review, testing)
-
-+++
-
-### PHCs
-
-- Provide <span style="color: #2A6899">manpower</span> for administrative roles in Project PHalcon
-- Provide time during weekly PH meetings for <span style="color: #2A6899">demonstrations</span> (if required)
-- <span style="color: #2A6899">Welfare</span> for biweekly meetings
-
----
-
 ### Comments?
 ### Suggestions?
 <br>
